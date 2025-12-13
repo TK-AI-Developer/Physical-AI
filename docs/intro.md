@@ -1,47 +1,79 @@
 ---
+id: intro
 sidebar_position: 1
+title: Introduction
 ---
 
-# Tutorial Intro
+# 📘 Physical AI & Humanoid Robotics  
+*A Foundational Curriculum for Early-Grade Learners*
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official **Physical AI & Humanoid Robotics** textbook.  
+This book introduces young learners to the world of intelligent machines, robotics, computational thinking, and creativity — in a simple, visual, and structured manner.
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## 🎯 Purpose of This Book
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The primary aim of this textbook is to:
 
-### What you'll need
+- Build early curiosity about **robots and intelligent systems**
+- Help students understand **basic AI behaviors** in an age-appropriate way
+- Develop foundational **logical thinking**
+- Introduce the **concept of a digital–physical world**
+- Encourage creativity through **activities, drawings, and simple experiments**
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## 🧠 What Students Will Learn
 
-Generate a new Docusaurus site using the **classic template**.
+By the end of this course, students will be able to:
 
-The classic template will automatically be added to your project after you run the command:
+- Recognize what robots are and how they work  
+- Understand simple ideas like **commands**, **sensors**, and **movement**  
+- Compare **human abilities vs robot abilities**  
+- Explore how AI “thinks” using basic patterns (Yes/No, If/Else)  
+- Connect everyday life with **technology and automation**  
+- Follow simple safety, ethics, and responsible-use guidelines  
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 📂 Structure of the Book
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+This textbook is organized into clear, well-designed modules:
 
-## Start your site
+1. **ROS Fundamentals**  
+   Foundations of robotic systems and command flow.
 
-Run the development server:
+2. **Digital Twin**  
+   Understanding virtual robots and simulations.
 
-```bash
-cd my-website
-npm run start
-```
+3. **NVIDIA Isaac**  
+   How modern robots learn, see, and move using AI tools.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+4. **VLA Integration**  
+   Connecting intelligence with physical robotic actions.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+5. **Capstone Project**  
+   A simple, fun final activity to consolidate learning.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+---
+
+## 👩‍🏫 Who Can Use This Book?
+
+- Early-grade students (Class 1)  
+- Teachers introducing AI & Robotics for the first time  
+- Schools adopting modern, future-ready curricula  
+- Beginners curious about intelligent systems  
+
+---
+
+## 🌟 Our Vision
+
+To provide every young learner the confidence to understand technology  
+— not just use it.
+
+---
+
+## 🚀 Ready to Begin?
+
+Start with the first module and begin your journey into the exciting world of **Physical AI**.

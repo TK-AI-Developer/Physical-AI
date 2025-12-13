@@ -3,8 +3,6 @@
 
 # Production
 /build
-/dist
-/target
 
 # Generated files
 .docusaurus
@@ -16,33 +14,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.vscode/
-.idea/
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# ROS 2
-/ros2_ws/build/
-/ros2_ws/install/
-/ros2_ws/log/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-.venv/
-venv/
-env/
-.env
-*.egg-info/
-
-# C++
-*.o
-*.so
-*.a
-*.dll
-*.exe

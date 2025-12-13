@@ -1,4 +1,4 @@
----
+<!-- ---
 id: 101
 title: Specify Physical AI Capstone Project
 stage: spec
@@ -19,7 +19,7 @@ files:
  - specs/101-physical-ai-capstone/spec.md
  - specs/101-physical-ai-capstone/checklists/requirements.md
 tests:
-[]
+[] -->
 ---
 
 ## Prompt
