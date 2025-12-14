@@ -1,4 +1,4 @@
----
+<!-- ---
 id: 100
 title: Establish Project Constitution v1.0.0
 stage: constitution
@@ -20,7 +20,7 @@ files:
  - .specify/templates/plan-template.md
 tests:
 []
----
+--- -->
 
 ## Prompt
 
